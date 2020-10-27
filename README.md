@@ -1,3 +1,3 @@
 # SimplePieChat
-<img src="https://github.com/hossainchisty/hossainchisty/blob/main/4paradox-animation.gif">
+<img src="https://github.com/hossainchisty/SimplePieChat/blob/main/GithubServey.png">
 Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK+ .
